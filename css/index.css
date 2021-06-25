@@ -36,7 +36,7 @@
     background: linear-gradient(to right, rgba(49, 0, 197, 0.6), rgba(49, 0, 197, 0.6)), url(../img/tunnel.png);
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 100% 100%;
+    background-size: auto auto;
     height: 100%;
   }
 
