@@ -502,6 +502,7 @@ ul.menu > li:hover > ul.submenu {
     margin-top: 400px;
     width: 70%;
     left: 0;
+    height: auto;
     margin-left: 15%;
     margin-right: auto;
     margin-bottom: 10%;
